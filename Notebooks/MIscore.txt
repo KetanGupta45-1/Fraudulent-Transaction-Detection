@@ -1,0 +1,58 @@
+Normal df
+          Feature  MI Score
+1            type  0.271539
+5  newbalanceOrig  0.143927
+7  oldbalanceDest  0.088833
+8  newbalanceDest  0.073622
+4   oldbalanceOrg  0.058737
+0            step  0.009446
+2          amount  0.002441
+9  isFlaggedFraud  0.001942
+6        nameDest  0.000882
+3        nameOrig  0.000000
+
+
+
+Scaled df
+          Feature  MI Score
+1            type  0.271539
+5  newbalanceOrig  0.143927
+7  oldbalanceDest  0.088833
+8  newbalanceDest  0.073622
+4   oldbalanceOrg  0.058737
+0            step  0.009446
+2          amount  0.002441
+9  isFlaggedFraud  0.001942
+6        nameDest  0.000882
+3        nameOrig  0.000000
+
+
+
+
+outlier removed normal df
+          Feature  MI Score
+1            type  0.241110
+7  oldbalanceDest  0.178743
+5  newbalanceOrig  0.162089
+8  newbalanceDest  0.154253
+4   oldbalanceOrg  0.141599
+0            step  0.011714
+2          amount  0.009270
+6        nameDest  0.002511
+9  isFlaggedFraud  0.000990
+3        nameOrig  0.000000
+
+
+
+
+outlier removed scaled df
+1            type  0.241110
+7  oldbalanceDest  0.178743
+5  newbalanceOrig  0.162089
+8  newbalanceDest  0.154253
+4   oldbalanceOrg  0.141599
+0            step  0.011714
+2          amount  0.009270
+6        nameDest  0.002511
+9  isFlaggedFraud  0.000990
+3        nameOrig  0.000000
