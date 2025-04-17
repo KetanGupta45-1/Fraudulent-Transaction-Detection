@@ -1,0 +1,59 @@
+Normal df - PPS Table:
+          Feature  PPS
+0            step    0
+1            type    0
+2          amount    0
+3        nameOrig    0
+4   oldbalanceOrg    0
+5  newbalanceOrig    0
+6        nameDest    0
+7  oldbalanceDest    0
+8  newbalanceDest    0
+9  isFlaggedFraud    0
+
+
+Scaled df - PPS Table:
+          Feature  PPS
+0            step    0
+1            type    0
+2          amount    0
+3        nameOrig    0
+4   oldbalanceOrg    0
+5  newbalanceOrig    0
+6        nameDest    0
+7  oldbalanceDest    0
+8  newbalanceDest    0
+9  isFlaggedFraud    0
+
+
+
+Outlier_removed_Normal_df - PPS Table:
+          Feature       PPS
+4   oldbalanceOrg  0.066667
+0            step  0.000000
+1            type  0.000000
+2          amount  0.000000
+3        nameOrig  0.000000
+5  newbalanceOrig  0.000000
+6        nameDest  0.000000
+7  oldbalanceDest  0.000000
+8  newbalanceDest  0.000000
+9  isFlaggedFraud  0.000000
+
+
+
+
+Outlier_removed_Scaled_df - PPS Table:
+          Feature       PPS
+4   oldbalanceOrg  0.066667
+0            step  0.000000
+1            type  0.000000
+2          amount  0.000000
+3        nameOrig  0.000000
+5  newbalanceOrig  0.000000
+6        nameDest  0.000000
+7  oldbalanceDest  0.000000
+8  newbalanceDest  0.000000
+9  isFlaggedFraud  0.000000
+
+
